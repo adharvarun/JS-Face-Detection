@@ -5,7 +5,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://adharvarun.github.io/JS-Face-Detection](https://adharvarun.github.io/JS-Face-Detection)
+[https://adharvarun.github.io/JS-Face-Detection](https://adharvarun-js-face-detection.netlify.app)
 
   
   
